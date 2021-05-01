@@ -174,4 +174,14 @@ div#category{
   #page-header::before{
     background: transparent!important;
     }
+	
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url(https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/4707D2171CF727775925D44FDB07C661.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}	
+	
 
